@@ -22,6 +22,7 @@ public class Alert_Handling
 	
 	      driver.get("https://demoqa.com/alerts");
 	      Thread.sleep(3000);
+	      Thread.sleep(3000);
 	      
 	//       driver.findElement(By.id("confirmButton")).click();
 	      
